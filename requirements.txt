@@ -1,0 +1,6 @@
+streamlit
+pandas
+matplotlib
+numpy
+scipy
+streamlit-lightweight-charts
