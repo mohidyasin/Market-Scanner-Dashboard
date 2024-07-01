@@ -3,4 +3,4 @@ pandas
 matplotlib
 numpy
 scipy
-git+https://github.com/freyastreamlit/streamlit-lightweight-charts.git
+git+https://github.com/louisnw01/lightweight-charts-python.git
